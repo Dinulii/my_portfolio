@@ -1,0 +1,51 @@
+[
+    {
+      "title": "BOC Banking App Redesign",
+      "imageSrc": "projects/boc.png",
+      "description": "Led a UI/UX redesign project for the BOC banking app, improving navigation, accessibility, and user satisfaction through wireframing and usability testing.",
+      "skills": ["Figma", "UI/UX Design", "Usability Testing"],
+      "demo": "https://www.linkedin.com/posts/tharakii_im-happy-to-share-this-redesign-bank-of-ugcPost-7281301374032613376-77UV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES2lDUBENzCwoSS4-8xTql6upy-UeCNeZE",
+      "source": "https://www.figma.com/design/FsYZ83S4vFXG9z8Llyc7wB/BOC-app-High-Fid?node-id=1-1700&t=QZWSmjfBKXKRTmZI-1"
+    },
+    {
+      "title": "Student Management System",
+      "imageSrc": "projects/studentM.jpeg",
+      "description": "Developed a system for efficient student data management with full CRUD functionality using Java.",
+      "skills": ["Java", "OOP", "CRUD"],
+      "demo": "",
+      "source": "https://github.com/Dinulii/Student-management-System-Java-"
+    },
+    {
+      "title": "Life on Land (SDG) Web Project",
+      "imageSrc": "projects/life-on-land.jpeg",
+      "description": "Designed an interactive website to raise awareness about environmental sustainability using HTML, CSS, and JavaScript.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "file:///Users/dinulihasarahendawitharana/Library/CloudStorage/OneDrive-Personal/Desktop/IIT/L4/Sem%202/web%20design/CWK/home.html",
+      "source": "https://github.com/Dinulii/Life-on-land-Website"
+    },
+    {
+      "title": "Personal Finance Tracker",
+      "imageSrc": "projects/finance-tracker.jpeg",
+      "description": "Built a budgeting tool in Python to help users manage expenses and track their savings effectively.",
+      "skills": ["Python", "Data Handling"],
+      "demo": "",
+      "source": "https://github.com/Dinulii/Personal-Finance-tracker"
+    },
+    {
+      "title": "BabyQ App (SDGP)",
+      "imageSrc": "projects/babyq.png",
+      "description": "Developing a childcare and medical record management app using React Native, Spring Boot, and MySQL. Features include appointment booking, digital records, and doctor search.",
+      "skills": ["React Native", "Spring Boot", "MySQL", "UI/UX"],
+      "demo": "https://youtu.be/1Jd8GjID21U",
+      "source": "https://github.com/IsharaBoo/BabyQ_App"
+    },
+    {
+      "title": "Real-Time Ticketing System",
+      "imageSrc": "projects/ticketing.jpeg",
+      "description": "Built a real-time event ticket booking system with React, Spring Boot, and MySQL. Implemented multi-threading and producer-consumer logic to manage concurrent reservations.",
+      "skills": ["React", "Java", "Spring Boot", "MySQL"],
+      "demo": "https://drive.google.com/file/d/193VtGDN1lZg2AUpEPerstFaYIZdOLlaV/view?usp=sharing",
+      "source": "https://github.com/Dinulii/OOP-cw"
+    }
+  ]
+  
