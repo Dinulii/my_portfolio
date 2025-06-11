@@ -20,7 +20,21 @@
         "provider": "LinkedIn Learning",
         "date": "October 2024",
         "certificateUrl": "https://www.linkedin.com/posts/dinuli-hendawitharana-bb10aa282_certificate-of-completion-activity-7257468406570852352-N_rN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES2lDUBENzCwoSS4-8xTql6upy-UeCNeZE"
+      },
+
+      {
+        "title": "Python3 Beginner to Advance (Udemy)",
+        "imageSrc": "certifications/python.png",
+        "provider": "Udemy Learning",
+        "date": "June 2025",
+        "certificateUrl": "https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/learn/lecture/13722356?start=0#learning-tools"
+      },
+      {
+        "title": "Machine Learning with Python",
+        "imageSrc": "certifications/ML_python.jpeg",
+        "provider": "LinkedIn Learning",
+        "date": "May 2025",
+        "certificateUrl": "https://www.linkedin.com/learning/certificates/60dcfcc608434bd5649ba29f977376d05ca1e247b63b868820653843fc206aeb?u=76664938"
       }
-    
   ]
   

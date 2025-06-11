@@ -10,19 +10,37 @@ export const Education = () => {
         <h2 className={styles.title}>Skills & Education</h2>
         
         <div className={styles.content}>
+
           {/* Skills Section */}
           <div className={styles.skills}>
-            {skills.map((skill, id) => {
-              return (
-                <div key={id} className={styles.skill}>
-                  <div className={styles.skillImageContainer}>
-                    <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
-                  </div>
-                  <p>{skill.title}</p>
-                </div>
-              );
-            })}
+    {skills.map((skill, id) => (
+    <div key={id} className={styles.skill}>
+      <div className={styles.flipCard}>
+        <div className={styles.flipCardInner}>
+          {/* Front */}
+          <div className={styles.flipCardFront}>
+            <div className={styles.skillImageContainer}>
+              <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+            </div>
+            <p>{skill.title}</p>
           </div>
+          
+          {/* Back */}
+          <div className={styles.flipCardBack}>
+            <p className={styles.skillLevel}>{skill.level}</p>
+            <div className={styles.progressBarContainer}>
+              <div
+                className={styles.progressBar}
+                style={{ width: `${skill.rating}%` }}
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  ))}
+</div>
+
   
           {/* Education Section */}
           <div className={styles.education}>

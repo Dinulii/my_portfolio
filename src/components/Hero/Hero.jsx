@@ -8,12 +8,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Dinuli Hendawitharana</h1>
 
-        <p className={styles.description}>
-          
-        I'm a Computer Science undergraduate at the University of Westminster with a strong passion for <span> UI/UX design, Frontend Development,</span> and <span> Data Analytics</span>. <br /> <br />
-        I love combining analytical thinking with creativity to build intuitive, impactful digital solutions. I'm a collaborative learner, always eager to grow and contribute to crafting seamless, user-centered experiences.
-        </p>
-
+        <h2 className={styles.subHeading}> UI/UX Designer | Front-End Developer | Aspiring Data Analyst </h2>
+      
         <a href="mailto:dinulihendawitharana03@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>

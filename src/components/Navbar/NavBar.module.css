@@ -11,10 +11,24 @@
 }
 
 .title {
-    font-size: 30px;
-   font-weight: 700;
-   text-decoration: none;
-   color: var(--color-text);
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+
+  background: linear-gradient(90deg, #9979ea, #a8b3c8, #9979ea);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  /* Shine animation */
+  animation: shine 4s linear infinite;
+}
+
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
 }
 
 .menu {
@@ -31,6 +45,7 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
+    font-weight: 500;
 }
 
 
